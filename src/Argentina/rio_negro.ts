@@ -1,0 +1,96 @@
+export const RioNegro = {
+	value: "RN",
+	label: "Rio Negro",
+	children: [
+		{
+			value: "Bariloche",
+			label: "Bariloche",
+			lat: -41.1334421,
+			lon: -71.3098425,
+		},
+		{
+			value: "Cipolletti",
+			label: "Cipolletti",
+			lat: -38.93554325,
+			lon: -67.98958160625,
+		},
+		{
+			value: "Choele Choel",
+			label: "Choele Choel",
+			lat: -39.2946503,
+			lon: -65.6551733,
+		},
+		{
+			value: "El Bolsón",
+			label: "El Bolsón",
+			lat: -41.9649027,
+			lon: -71.5348197,
+		},
+		{
+			value: "El Cuy",
+			label: "El Cuy",
+			lat: -39.9260074,
+			lon: -68.3458214,
+		},
+		{
+			value: "General Conesa",
+			label: "General Conesa",
+			lat: -40.1061785,
+			lon: -64.4530092,
+		},
+		{
+			value: "General Roca",
+			label: "General Roca",
+			lat: -39.0268342,
+			lon: -67.5754674,
+		},
+		{
+			value: "Maquinchao",
+			label: "Maquinchao",
+			lat: -41.2483655,
+			lon: -68.7012651,
+		},
+		{
+			value: "Ñorquincó",
+			label: "Ñorquincó",
+			lat: -41.8505847,
+			lon: -70.9026924,
+		},
+		{
+			value: "Pilcaniyeu",
+			label: "Pilcaniyeu",
+			lat: -41.1223885,
+			lon: -70.722091,
+		},
+		{
+			value: "Río Colorado",
+			label: "Río Colorado",
+			lat: -38.9908428,
+			lon: -64.0957548,
+		},
+		{
+			value: "San Antonio Oeste",
+			label: "San Antonio Oeste",
+			lat: -40.7302125,
+			lon: -64.9389955,
+		},
+		{
+			value: "Sierra Colorada",
+			label: "Sierra Colorada",
+			lat: -40.5849692,
+			lon: -67.7568775,
+		},
+		{
+			value: "Valcheta",
+			label: "Valcheta",
+			lat: -40.607548449999996,
+			lon: -65.99591594761772,
+		},
+		{
+			value: "Viedma",
+			label: "Viedma",
+			lat: -40.8084274,
+			lon: -62.994722,
+		},
+	],
+};
