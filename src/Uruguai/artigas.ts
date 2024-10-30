@@ -1,0 +1,96 @@
+export const Artigas = {
+	value: "AR",
+	label: "Artigas",
+	children: [
+		{
+			value: "Artigas",
+			label: "Artigas",
+			lat: -30.3984136,
+			lon: -56.4638078,
+		},
+		{
+			value: "Baltasar Brum",
+			label: "Baltasar Brum",
+			lat: -30.7201503,
+			lon: -57.3307941,
+		},
+		{
+			value: "Bella Unión",
+			label: "Bella Unión",
+			lat: -30.2612301,
+			lon: -57.6059002,
+		},
+		{
+			value: "Bernabé Rivera",
+			label: "Bernabé Rivera",
+			lat: -30.2991698,
+			lon: -56.9701236,
+		},
+		{
+			value: "Colonia Palma",
+			label: "Colonia Palma",
+			lat: -30.5841709,
+			lon: -57.6789928,
+		},
+		{
+			value: "Coronado",
+			label: "Coronado",
+			lat: -30.276196,
+			lon: -57.6028684,
+		},
+		{
+			value: "Cuaró",
+			label: "Cuaró",
+			lat: -30.6117341,
+			lon: -56.9045982,
+		},
+		{
+			value: "Diego Lamas",
+			label: "Diego Lamas",
+			lat: -30.7564565,
+			lon: -57.0549219,
+		},
+		{
+			value: "Franquia",
+			label: "Franquia",
+			lat: -30.2214012,
+			lon: -57.5967646,
+		},
+		{
+			value: "Javier de Viana",
+			label: "Javier de Viana",
+			lat: -30.4325409,
+			lon: -56.7858022,
+		},
+		{
+			value: "Paso Campamento",
+			label: "Paso Campamento",
+			lat: -30.788001,
+			lon: -56.782232,
+		},
+		{
+			value: "Portones de Hierro y Campodónico",
+			label: "Portones de Hierro y Campodónico",
+			lat: -30.2732994,
+			lon: -57.5703373,
+		},
+		{
+			value: "Sequeira",
+			label: "Sequeira",
+			lat: -31.0013384,
+			lon: -56.8771169,
+		},
+		{
+			value: "Tomás Gomensoro",
+			label: "Tomás Gomensoro",
+			lat: -30.4304107,
+			lon: -57.435025,
+		},
+		{
+			value: "Topador",
+			label: "Topador",
+			lat: -30.2976117,
+			lon: -56.8206494,
+		},
+	],
+};

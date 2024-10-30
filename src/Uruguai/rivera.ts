@@ -1,0 +1,100 @@
+export const Rivera = {
+	value: "RI", label: "Rivera", children: [
+		{
+			value: "Amarillo",
+			label: "Amarillo",
+			lat: -31.606011,
+			lon: -55.1031124,
+		},
+		{
+			value: "Arroyo Blanco",
+			label: "Arroyo Blanco",
+			lat: -31.636896,
+			lon: -54.7911242,
+		},
+		{
+			value: "Cerrillada",
+			label: "Cerrillada",
+			lat: -31.4381166,
+			lon: -54.714837,
+		},
+		{
+			value: "Cerro Pelado",
+			label: "Cerro Pelado",
+			lat: -34.8815503,
+			lon: -54.9761183,
+		},
+		{
+			value: "Cerros de la Calera",
+			label: "Cerros de la Calera",
+			lat: -31.3915157,
+			lon: -55.39163,
+		},
+		{
+			value: "Lagos del Norte",
+			label: "Lagos del Norte",
+			lat: -30.9833933,
+			lon: -55.4989326,
+		},
+		{
+			value: "La Puente",
+			label: "La Puente",
+			lat: -31.473551,
+			lon: -54.964371,
+		},
+		{
+			value: "Las Flores",
+			label: "Las Flores",
+			lat: -31.0565196,
+			lon: -57.0345584,
+		},
+		{
+			value: "Masoller",
+			label: "Masoller",
+			lat: -31.0839524,
+			lon: -56.00273,
+		},
+		{
+			value: "Minas de Corrales",
+			label: "Minas de Corrales",
+			lat: -31.5691608,
+			lon: -55.4730233,
+		},
+		{
+			value: "Moirones",
+			label: "Moirones",
+			lat: -31.6041336,
+			lon: -54.9839544,
+		},
+		{
+			value: "Paso Ataques",
+			label: "Paso Ataques",
+			lat: -31.207419,
+			lon: -55.3585327,
+		},
+		{
+			value: "Paso Hospital",
+			label: "Paso Hospital",
+			lat: -31.654542,
+			lon: -54.6202605,
+		},
+		{
+			value: "Rivera",
+			label: "Rivera",
+			lat: -30.900058,
+			lon: -55.5408151,
+		},
+		{
+			value: "Tranqueras",
+			label: "Tranqueras",
+			lat: -31.1939884,
+			lon: -55.7649238,
+		},
+		{
+			value: "Vichadero",
+			label: "Vichadero",
+			lat: -31.7789553,
+			lon: -54.6923583,
+		},
+	],
+};

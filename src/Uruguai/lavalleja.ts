@@ -1,0 +1,112 @@
+export const Lavalleja = {
+	value: "LV", label: "Lavalleja", children: [
+		{
+			value: "Aramendía",
+			label: "Aramendía",
+			lat: -33.6392648,
+			lon: -54.6176068,
+		},
+		{
+			value: "Blanes Viale",
+			label: "Blanes Viale",
+			lat: -34.3327611,
+			lon: -55.2499015,
+		},
+		{
+			value: "Colón",
+			label: "Colón",
+			lat: -34.8060074,
+			lon: -56.2215149,
+		},
+		{
+			value: "Estación Solís",
+			label: "Estación Solís",
+			lat: -34.3687359,
+			lon: -55.4493674,
+		},
+		{
+			value: "Gaetán",
+			label: "Gaetán",
+			lat: -34.1284379,
+			lon: -55.4799412,
+		},
+		{
+			value: "Illescas",
+			label: "Illescas",
+			lat: -33.6095152,
+			lon: -55.3322767,
+		},
+		{
+			value: "José Batlle y Ordóñez",
+			label: "José Batlle y Ordóñez",
+			lat: -33.4733345,
+			lon: -55.1469361,
+		},
+		{
+			value: "José Pedro Varela",
+			label: "José Pedro Varela",
+			lat: -33.4564695,
+			lon: -54.5353454,
+		},
+		{
+			value: "Mariscala",
+			label: "Mariscala",
+			lat: -34.0418823,
+			lon: -54.7770375,
+		},
+		{
+			value: "Minas",
+			label: "Minas",
+			lat: -34.3773987,
+			lon: -55.2382144,
+		},
+		{
+			value: "Pirarajá",
+			label: "Pirarajá",
+			lat: -33.740851,
+			lon: -54.7573012,
+		},
+		{
+			value: "Polanco Norte",
+			label: "Polanco Norte",
+			lat: -33.874299,
+			lon: -55.122029,
+		},
+		{
+			value: "San Francisco de las Sierras",
+			label: "San Francisco de las Sierras",
+			lat: -34.4155004,
+			lon: -55.197828,
+		},
+		{
+			value: "Solís de Mataojo",
+			label: "Solís de Mataojo",
+			lat: -34.5991619,
+			lon: -55.4665676,
+		},
+		{
+			value: "Villa del Rosario",
+			label: "Villa del Rosario",
+			lat: -34.3141309,
+			lon: -55.4771272,
+		},
+		{
+			value: "Villa Serrana",
+			label: "Villa Serrana",
+			lat: -34.3223672,
+			lon: -54.9893614,
+		},
+		{
+			value: "Zapicán",
+			label: "Zapicán",
+			lat: -33.527751,
+			lon: -54.9389546,
+		},
+		{
+			value: "19 de Junio",
+			label: "19 de Junio",
+			lat: -30.4006253,
+			lon: -56.4907517,
+		},
+	],
+};

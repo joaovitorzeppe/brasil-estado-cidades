@@ -1,0 +1,112 @@
+export const Coquimbo = {
+	value: "CQ", label: "Coquimbo", children: [
+		{
+			value: "Andacollo",
+			label: "Andacollo",
+			lat: -30.2322048,
+			lon: -71.0847556,
+		},
+		{
+			value: "Canela",
+			label: "Canela",
+			lat: -31.464318900000002,
+			lon: -71.43481585682389,
+		},
+		{
+			value: "Combarbalá",
+			label: "Combarbalá",
+			lat: -31.1781518,
+			lon: -71.0024382,
+		},
+		{
+			value: "Coquimbo",
+			label: "Coquimbo",
+			lat: -29.9531851,
+			lon: -71.3379503,
+		},
+		{
+			value: "Illapel",
+			label: "Illapel",
+			lat: -31.6326932,
+			lon: -71.1683039,
+		},
+		{
+			value: "La Higuera",
+			label: "La Higuera",
+			lat: -29.511595,
+			lon: -71.2015007,
+		},
+		{
+			value: "La Serena",
+			label: "La Serena",
+			lat: -29.902631,
+			lon: -71.2520253,
+		},
+		{
+			value: "Los Vilos",
+			label: "Los Vilos",
+			lat: -31.9121611,
+			lon: -71.5138887,
+		},
+		{
+			value: "Monte Patria",
+			label: "Monte Patria",
+			lat: -30.6944769,
+			lon: -70.9579593,
+		},
+		{
+			value: "Ovalle",
+			label: "Ovalle",
+			lat: -30.6030819,
+			lon: -71.2029894,
+		},
+		{
+			value: "Paiguano",
+			label: "Paiguano",
+			lat: -30.0290417,
+			lon: -70.5164414,
+		},
+		{
+			value: "Punitaqui",
+			label: "Punitaqui",
+			lat: -30.8337532,
+			lon: -71.2573637,
+		},
+		{
+			value: "Río Hurtado",
+			label: "Río Hurtado",
+			lat: -30.452222,
+			lon: -70.68018851738393,
+		},
+		{
+			value: "Salamanca",
+			label: "Salamanca",
+			lat: -31.7804674,
+			lon: -70.9649896,
+		},
+		{
+			value: "Vicuña",
+			label: "Vicuña",
+			lat: -30.0340482,
+			lon: -70.7126702,
+		},
+		{
+			value: "Coquimbo",
+			label: "Coquimbo",
+			lat: -29.9531851,
+			lon: -71.3379503,
+		},
+		{
+			value: "La Higuera",
+			label: "La Higuera",
+			lat: -29.511595,
+			lon: -71.2015007,
+		},
+		{
+			value: "Vicuña",
+			label: "Vicuña",
+			lat: -30.0340482,
+			lon: -70.7126702,
+		},
+	],
+};

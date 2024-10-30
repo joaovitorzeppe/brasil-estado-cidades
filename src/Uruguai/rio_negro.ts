@@ -1,0 +1,118 @@
+export const RioNegro = {
+	value: "RN", label: "RioNegro", children: [
+		{
+			value: "Algorta",
+			label: "Algorta",
+			lat: -32.4230984,
+			lon: -57.3924836,
+		},
+		{
+			value: "Barrio Anglo",
+			label: "Barrio Anglo",
+			lat: -33.1192767,
+			lon: -58.327015,
+		},
+		{
+			value: "Bellaco",
+			label: "Bellaco",
+			lat: -32.7643776,
+			lon: -57.88081670373336,
+		},
+		{
+			value: "Colonia Ofir",
+			label: "Colonia Ofir",
+			lat: -32.566816,
+			lon: -58.1027842,
+		},
+		{
+			value: "El Ombú",
+			label: "El Ombú",
+			lat: -32.8573457,
+			lon: -57.4549611,
+		},
+		{
+			value: "Fray Bentos",
+			label: "Fray Bentos",
+			lat: -33.1165167,
+			lon: -58.3130977,
+		},
+		{
+			value: "Gartental",
+			label: "Gartental",
+			lat: -32.6961464,
+			lon: -57.9837384,
+		},
+		{
+			value: "Grecco",
+			label: "Grecco",
+			lat: -32.815622,
+			lon: -57.0430812,
+		},
+		{
+			value: "Las Cañas",
+			label: "Las Cañas",
+			lat: -33.1646369,
+			lon: -58.3559346,
+		},
+		{
+			value: "Los Arrayanes",
+			label: "Los Arrayanes",
+			lat: -33.22472165,
+			lon: -54.367820709897316,
+		},
+		{
+			value: "Menafra",
+			label: "Menafra",
+			lat: -32.5612683,
+			lon: -57.4833767,
+		},
+		{
+			value: "Nuevo Berlín",
+			label: "Nuevo Berlín",
+			lat: -32.9803448,
+			lon: -58.0569456,
+		},
+		{
+			value: "Paso de los Mellizos",
+			label: "Paso de los Mellizos",
+			lat: -32.52001,
+			lon: -57.1614609,
+		},
+		{
+			value: "San Javier",
+			label: "San Javier",
+			lat: -32.6664272,
+			lon: -58.1330431,
+		},
+		{
+			value: "Sarandí de Navarro",
+			label: "Sarandí de Navarro",
+			lat: -32.5439177,
+			lon: -56.8684517,
+		},
+		{
+			value: "Tres Quintas",
+			label: "Tres Quintas",
+			lat: -32.6994742,
+			lon: -57.9963912,
+		},
+		{
+			value: "Villa General Borges",
+			label: "Villa General Borges",
+			lat: -32.55823,
+			lon: -57.3883021,
+		},
+		{
+			value: "Villa María",
+			label: "Villa María",
+			lat: -34.5142196,
+			lon: -56.7605922,
+		},
+		{
+			value: "Young",
+			label: "Young",
+			lat: -32.6995318,
+			lon: -57.6341992,
+		},
+	],
+};

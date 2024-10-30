@@ -209,8 +209,8 @@ export const LaPampa = {
 		{
 			value: "Maissonave",
 			label: "Maissonave",
-			lat: null,
-			lon: null,
+			lat: -35.040410,
+			lon: -64.385324,
 		},
 		{
 			value: "Mauricio Mayer",
@@ -395,8 +395,8 @@ export const LaPampa = {
 		{
 			value: "Villa Marisol",
 			label: "Villa Marisol",
-			lat: null,
-			lon: null,
+			lat: -36.075757,
+			lon: -63.886985,
 		},
 		{
 			value: "Winifreda",

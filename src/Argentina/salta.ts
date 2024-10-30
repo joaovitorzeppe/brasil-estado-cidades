@@ -203,8 +203,8 @@ export const Salta = {
 		{
 			value: "Payagasta",
 			label: "Payagasta",
-			lat: null,
-			lon: null,
+			lat: -25.050605,
+			lon: -66.102201,
 		},
 		{
 			value: "Payogasta",
