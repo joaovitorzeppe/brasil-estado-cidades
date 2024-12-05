@@ -1,0 +1,100 @@
+export const Canindeyu = {
+	value: "CN", label: "Canindeyú", children: [
+		{
+			"value": "Corpus Christi",
+			"label": "Corpus Christi",
+			"lat": -24.078626,
+			"lon": -54.9399763,
+		},
+		{
+			"value": "Curuguaty",
+			"label": "Curuguaty",
+			"lat": -24.4694166,
+			"lon": -55.6945253,
+		},
+		{
+			"value": "General Francisco Caballero Álvarez",
+			"label": "General Francisco Caballero Álvarez",
+			"lat": -24.1556231,
+			"lon": -54.6656297,
+		},
+		{
+			"value": "Itanará",
+			"label": "Itanará",
+			"lat": -23.7519813,
+			"lon": -55.4645214,
+		},
+		{
+			"value": "Katueté",
+			"label": "Katueté",
+			"lat": -24.3088036,
+			"lon": -54.748267074688144,
+		},
+		{
+			"value": "La Paloma del Espíritu Santo",
+			"label": "La Paloma del Espíritu Santo",
+			"lat": -24.1324273,
+			"lon": -54.612178,
+		},
+		{
+			"value": "Laurel",
+			"label": "Laurel",
+			"lat": -24.5635433,
+			"lon": -54.9586833,
+		},
+		{
+			"value": "Maracaná",
+			"label": "Maracaná",
+			"lat": -24.1899734,
+			"lon": -56.1197791,
+		},
+		{
+			"value": "Nueva Esperanza",
+			"label": "Nueva Esperanza",
+			"lat": -24.5060025,
+			"lon": -54.8575842,
+		},
+		{
+			"value": "Puerto Adela",
+			"label": "Puerto Adela",
+			"lat": -24.4844244,
+			"lon": -54.3856984,
+		},
+		{
+			"value": "Salto del Guairá",
+			"label": "Salto del Guairá",
+			"lat": -24.0616604,
+			"lon": -54.305644,
+		},
+		{
+			"value": "Villa Ygatimí",
+			"label": "Villa Ygatimí",
+			"lat": -24.1228762,
+			"lon": -55.6447411,
+		},
+		{
+			"value": "Yasy Cañy",
+			"label": "Yasy Cañy",
+			"lat": -24.5236147,
+			"lon": -55.8829147,
+		},
+		{
+			"value": "Yby Pytá",
+			"label": "Yby Pytá",
+			"lat": -24.8764719,
+			"lon": -55.6492906,
+		},
+		{
+			"value": "Ybyrarobaná",
+			"label": "Ybyrarobaná",
+			"lat": -24.3096917,
+			"lon": -55.0535649,
+		},
+		{
+			"value": "Ypejhú",
+			"label": "Ypejhú",
+			"lat": -23.888163,
+			"lon": -55.4411803,
+		},
+	],
+};

@@ -1,0 +1,118 @@
+export const Central = {
+	value: "CE", label: "Central", children: [
+		{
+			"value": "Areguá",
+			"label": "Areguá",
+			"lat": -25.3129299,
+			"lon": -57.3846579,
+		},
+		{
+			"value": "Capiatá",
+			"label": "Capiatá",
+			"lat": -25.3548171,
+			"lon": -57.4427315,
+		},
+		{
+			"value": "Fernando de la Mora",
+			"label": "Fernando de la Mora",
+			"lat": -25.3281673,
+			"lon": -57.5521492,
+		},
+		{
+			"value": "Guarambaré",
+			"label": "Guarambaré",
+			"lat": -25.4920858,
+			"lon": -57.4558665,
+		},
+		{
+			"value": "Itá",
+			"label": "Itá",
+			"lat": -25.5074747,
+			"lon": -57.3631906,
+		},
+		{
+			"value": "Itauguá",
+			"label": "Itauguá",
+			"lat": -25.3947318,
+			"lon": -57.3532892,
+		},
+		{
+			"value": "Lambaré",
+			"label": "Lambaré",
+			"lat": -25.3455354,
+			"lon": -57.6261456,
+		},
+		{
+			"value": "Limpio",
+			"label": "Limpio",
+			"lat": -25.1728768,
+			"lon": -57.4778284,
+		},
+		{
+			"value": "Luque",
+			"label": "Luque",
+			"lat": -25.2665417,
+			"lon": -57.4926928,
+		},
+		{
+			"value": "Mariano Roque Alonso",
+			"label": "Mariano Roque Alonso",
+			"lat": -25.2118123,
+			"lon": -57.5346458,
+		},
+		{
+			"value": "Ñemby",
+			"label": "Ñemby",
+			"lat": -25.3924542,
+			"lon": -57.5471112,
+		},
+		{
+			"value": "Nueva Italia",
+			"label": "Nueva Italia",
+			"lat": -25.6120904,
+			"lon": -57.4676865,
+		},
+		{
+			"value": "Saldívar",
+			"label": "Saldívar",
+			"lat": -25.4439,
+			"lon": -57.4430461,
+		},
+		{
+			"value": "San Antonio",
+			"label": "San Antonio",
+			"lat": -25.411516,
+			"lon": -57.5758258,
+		},
+		{
+			"value": "San Lorenzo",
+			"label": "San Lorenzo",
+			"lat": -25.3425224,
+			"lon": -57.509397,
+		},
+		{
+			"value": "Villa Elisa",
+			"label": "Villa Elisa",
+			"lat": -25.3715212,
+			"lon": -57.5898279,
+		},
+		{
+			"value": "Villeta",
+			"label": "Villeta",
+			"lat": -25.5045192,
+			"lon": -57.5693789,
+		},
+		{
+			"value": "Ypacaraí",
+			"label": "Ypacaraí",
+			"lat": -25.4046805,
+			"lon": -57.2857757,
+		},
+		{
+			"value": "Ypané",
+			"label": "Ypané",
+			"lat": -25.4573519,
+			"lon": -57.5092575,
+		},
+	],
+};

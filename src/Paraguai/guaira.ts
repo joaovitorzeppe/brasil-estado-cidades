@@ -1,0 +1,112 @@
+export const Guaira = {
+	value: 'GA', label: 'Guairá', children: [
+		{
+			'value': 'Borja',
+			'label': 'Borja',
+			'lat': -25.9507222,
+			'lon': -56.4961614,
+		},
+		{
+			'value': 'Capitán Mauricio José Troche',
+			'label': 'Capitán Mauricio José Troche',
+			'lat': -25.6159267,
+			'lon': -56.2773937,
+		},
+		{
+			'value': 'Coronel Martínez',
+			'label': 'Coronel Martínez',
+			'lat': -25.7592199,
+			'lon': -56.6192144,
+		},
+		{
+			'value': 'Doctor Botrell',
+			'label': 'Doctor Botrell',
+			'lat': -25.6149241,
+			'lon': -56.3398852,
+		},
+		{
+			'value': 'Félix Pérez Cardozo',
+			'label': 'Félix Pérez Cardozo',
+			'lat': -25.7428872,
+			'lon': -56.5227793,
+		},
+		{
+			'value': 'General Eugenio Alejandrino Garay',
+			'label': 'General Eugenio Alejandrino Garay',
+			'lat': -20.5171214,
+			'lon': -62.1424065,
+		},
+		{
+			'value': 'Independencia',
+			'label': 'Independencia',
+			'lat': -25.706892,
+			'lon': -56.1821368,
+		},
+		{
+			'value': 'Itapé',
+			'label': 'Itapé',
+			'lat': -25.8520504,
+			'lon': -56.6147051,
+		},
+		{
+			'value': 'Iturbe',
+			'label': 'Iturbe',
+			'lat': -26.0583952,
+			'lon': -56.4874273,
+		},
+		{
+			'value': 'José A. Fassardi',
+			'label': 'José A. Fassardi',
+			'lat': -25.9795583,
+			'lon': -56.1217721,
+		},
+		{
+			'value': 'Mbocayaty del Guairá',
+			'label': 'Mbocayaty del Guairá',
+			'lat': -25.7148266,
+			'lon': -56.4080301,
+		},
+		{
+			'value': 'Natalicio Talavera',
+			'label': 'Natalicio Talavera',
+			'lat': -25.6547363,
+			'lon': -56.3083909,
+		},
+		{
+			'value': 'Ñumí',
+			'label': 'Ñumí',
+			'lat': -25.9515067,
+			'lon': -56.3284544,
+		},
+		{
+			'value': 'Paso Yobái',
+			'label': 'Paso Yobái',
+			'lat': -25.7132848,
+			'lon': -56.0015539,
+		},
+		{
+			'value': 'San Salvador',
+			'label': 'San Salvador',
+			'lat': -25.9430646,
+			'lon': -56.4710195,
+		},
+		{
+			'value': 'Tebicuary',
+			'label': 'Tebicuary',
+			'lat': -26.4679627,
+			'lon': -57.1873816,
+		},
+		{
+			'value': 'Villarrica',
+			'label': 'Villarrica',
+			'lat': -25.780092304194415,
+			'lon': -56.45293281905757,
+		},
+		{
+			'value': 'Yataity del Guairá',
+			'label': 'Yataity del Guairá',
+			'lat': -25.6891251,
+			'lon': -56.4668019,
+		},
+	],
+};

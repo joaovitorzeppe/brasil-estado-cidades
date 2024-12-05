@@ -1,0 +1,112 @@
+export const Paraguari = {
+	value: "PR", label: "Paraguarí", children: [
+		{
+			"value": "Acahay",
+			"label": "Acahay",
+			"lat": -25.9139897,
+			"lon": -57.1142066,
+		},
+		{
+			"value": "Caapucú",
+			"label": "Caapucú",
+			"lat": -26.2336162,
+			"lon": -57.1820645,
+		},
+		{
+			"value": "Carapeguá",
+			"label": "Carapeguá",
+			"lat": -25.767636,
+			"lon": -57.2425331,
+		},
+		{
+			"value": "Escobar",
+			"label": "Escobar",
+			"lat": -25.6435188,
+			"lon": -57.0358175,
+		},
+		{
+			"value": "General Bernardino Caballero",
+			"label": "General Bernardino Caballero",
+			"lat": -25.3087796,
+			"lon": -57.2958319,
+		},
+		{
+			"value": "La Colmena",
+			"label": "La Colmena",
+			"lat": -25.8856298,
+			"lon": -56.8404292,
+		},
+		{
+			"value": "María Antonia",
+			"label": "María Antonia",
+			"lat": -26.4317721,
+			"lon": -56.9067727,
+		},
+		{
+			"value": "Mbuyapey",
+			"label": "Mbuyapey",
+			"lat": -26.2205658,
+			"lon": -56.7572497,
+		},
+		{
+			"value": "Paraguarí",
+			"label": "Paraguarí",
+			"lat": -25.6207309,
+			"lon": -57.1475978,
+		},
+		{
+			"value": "Pirayú",
+			"label": "Pirayú",
+			"lat": -25.4835339,
+			"lon": -57.2372304,
+		},
+		{
+			"value": "Quiindy",
+			"label": "Quiindy",
+			"lat": -25.9757816,
+			"lon": -57.2324307,
+		},
+		{
+			"value": "Quyquyhó",
+			"label": "Quyquyhó",
+			"lat": -26.2316581,
+			"lon": -56.9888688,
+		},
+		{
+			"value": "San Roque González de Santa Cruz",
+			"label": "San Roque González de Santa Cruz",
+			"lat": -25.9466327,
+			"lon": -56.2505903,
+		},
+		{
+			"value": "Sapucai",
+			"label": "Sapucai",
+			"lat": -25.6649017,
+			"lon": -56.955103,
+		},
+		{
+			"value": "Tebicuarymí",
+			"label": "Tebicuarymí",
+			"lat": -25.91462688743698,
+			"lon": -56.67675017311436,
+		},
+		{
+			"value": "Yaguarón",
+			"label": "Yaguarón",
+			"lat": -25.5630557,
+			"lon": -57.2856971,
+		},
+		{
+			"value": "Ybycuí",
+			"label": "Ybycuí",
+			"lat": -26.0186949,
+			"lon": -57.0178207,
+		},
+		{
+			"value": "Ybytymí",
+			"label": "Ybytymí",
+			"lat": -25.760590649999997,
+			"lon": -56.80363148832282,
+		},
+	],
+};

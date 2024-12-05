@@ -1,0 +1,100 @@
+export const Neembucu = {
+	value: 'NE', label: 'Ñeembucú', children: [
+		{
+			'value': 'Alberdi',
+			'label': 'Alberdi',
+			'lat': -26.1854132,
+			'lon': -58.142486,
+		},
+		{
+			'value': 'Cerrito',
+			'label': 'Cerrito',
+			'lat': -27.3393701,
+			'lon': -57.6397704,
+		},
+		{
+			'value': 'Desmochados',
+			'label': 'Desmochados',
+			'lat': -27.121115,
+			'lon': -58.0879682,
+		},
+		{
+			'value': 'General José Eduvigis Díaz',
+			'label': 'General José Eduvigis Díaz',
+			'lat': -27.2008608,
+			'lon': -58.3667298,
+		},
+		{
+			'value': 'Guazú Cuá',
+			'label': 'Guazú Cuá',
+			'lat': -26.8826508,
+			'lon': -57.96590878328844,
+		},
+		{
+			'value': 'Humaitá',
+			'label': 'Humaitá',
+			'lat': -27.0693068,
+			'lon': -58.5074653,
+		},
+		{
+			'value': 'Isla Umbú',
+			'label': 'Isla Umbú',
+			'lat': -26.9834127,
+			'lon': -58.2725618,
+		},
+		{
+			'value': 'Laureles',
+			'label': 'Laureles',
+			'lat': -27.2504746,
+			'lon': -57.4581675,
+		},
+		{
+			'value': 'Mayor José Martínez',
+			'label': 'Mayor José Martínez',
+			'lat': -27.1464309,
+			'lon': -58.2291864,
+		},
+		{
+			'value': 'Paso de Patria',
+			'label': 'Paso de Patria',
+			'lat': -27.2454211,
+			'lon': -58.5454485,
+		},
+		{
+			'value': 'Pilar',
+			'label': 'Pilar',
+			'lat': -26.8582578,
+			'lon': -58.3034318,
+		},
+		{
+			'value': 'San Juan Bautista de Ñeembucú',
+			'label': 'San Juan Bautista de Ñeembucú',
+			'lat': -26.669648298222448,
+			'lon': -57.90395548152124,
+		},
+		{
+			'value': 'Tacuaras',
+			'label': 'Tacuaras',
+			'lat': -26.8183687,
+			'lon': -57.982401,
+		},
+		{
+			'value': 'Villa Franca',
+			'label': 'Villa Franca',
+			'lat': -26.3148808,
+			'lon': -58.1479754,
+		},
+		{
+			'value': 'Villa Oliva',
+			'label': 'Villa Oliva',
+			'lat': -26.0161506,
+			'lon': -57.8575555,
+		},
+		{
+			'value': 'Villalbín',
+			'label': 'Villalbín',
+			'lat': -27.1386662,
+			'lon': -57.9302857,
+		},
+	],
+};
